@@ -53,7 +53,7 @@ Drag and Drop all the files one by one and click the “commit changes” button
 In the same alignment, You should upload them in the GitHub<br>
 <br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Picture1.png">
 <h3>5. Publish your website</h3>
-This is the most awaiting part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.<br><br>
+This is the most awaited part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(161).png">
 Scroll down until you see the“GitHub Pages”
 If you give the input “Name” as [username].github.io
@@ -65,7 +65,7 @@ Be patient, wait a minute or two, and then refresh the page or try the link if y
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(164).png">
 congratulations your website is ready…!!! 🔥😉
 <h3>6. Share your website</h3>
-You gonna see your website globally with the generated URL. After clicking the link you are going to see the magic.<br><br>
+You can see your website globally with the generated URL. After clicking the link you are going to see the magic.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(167).png">
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(165).png">
 <br>Whenever you want to make changes to your website, you just need to commit the changes and then push the files up to your GitHub repository. Your changes will be published automatically.
