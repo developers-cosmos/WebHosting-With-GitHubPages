@@ -17,30 +17,30 @@ The HTML page name must be “index.html”.<br>
 Only one Static HTML file can be deployed with one repository in Github.<br>
 HTML file can be linked with many CSS, JavaScript, Bootstrap, and Jquery files.<br>
 <h2>The intention behind deploying Website</h2>
-Everybody wants a URL to share their website with the World. You might need a website to project your ideas on your style. You can design a website to display your portfolio.
-<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
+Everybody wants a URL to share their website with the World. You might need a website to project your ideas on your style. You can design a website to display your portfolio.<br>
+<br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
 <h2>Let’s get started</h2>
 In this article, I’ll show you how to deploy it to publish and share your website on GitHub.
-1. Create a GitHub account
+<h3>1. Create a GitHub account</h3>
 Make sure, You have a GitHub account. Signup in the GitHub to create an account. If you have Github account ignore this step. By creating this Github account you gonna get unlimited space to upload data.
-<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
-2.Create a new GitHub repository
+<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(149).png">
+<h3>2.Create a new GitHub repository</h3>
 Create a new repository by hitting the + button on the top-right of the screen. A folder is called Repository according to GitHub terminology.
-<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
-3. Name your GitHub repository
-You need to name your repository. This is the most important step. Based on the name of the Repository, your website URL will be generated.
+<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(153).png">
+<h3>3. Name your GitHub repository</h3>
+You need to name your repository. This is the most important step. Based on the name of the Repository, your website URL will be generated.<br>
 If you give the input “Name” as [username].github.io
 Then your Website Link will generate as
 https://[username].github.io/
-
-Recommended :
+<br>
+Recommended :<h3>2.Create a new GitHub repository</h3>
 If you give the input “Name” as per your required repository name
 Then your Website Link will generate as
 https://[username].github.io/[given repository name]/
-<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
+<img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(154).png">
 It is mandatory to initialize the repository with a README which will let you immediately clone the repository to your computer.
 The repository should be in the public mode to get URL access.
-4. Upload your GitHub files
+<h3>4. Upload your GitHub files</h3>
 You have seen the website which was opened in the local(Computer).
 The alignment which is there should not be changed while uploading the files into GitHub.
 You can name your files as your wish. But, Follow the standard format while uploading.
@@ -52,7 +52,7 @@ Drag and Drop all the files one by one and click the “commit changes” button
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(160).png">
 In the same alignment, You should upload them in the GitHub
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
-5. Publish your website
+5. Publish your website<h3>2.Create a new GitHub repository</h3>
 This is the most awaiting part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(161).png">
 Scroll down until you see the“GitHub Pages”
@@ -64,7 +64,7 @@ Now click on the “Source” dropdown menu and click on the “master branch”
 Be patient, wait a minute or two, and then refresh the page or try the link if you want. Once your site has been published, you’ll see this:
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(164).png">
 congratulations your website is ready…!!! 
-6. Share your website
+6. Share your website<h3>2.Create a new GitHub repository</h3>
 You gonna see your website globally with the generated URL. After clicking the link you are going to see the magic
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(167).png">
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(165).png">
