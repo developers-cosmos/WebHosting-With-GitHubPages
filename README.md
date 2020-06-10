@@ -2,7 +2,7 @@
 ##Make your website and share it publically in no time.
 
 
-#What is Github?
+#What is Github?
 GitHub is the world’s largest software development platform. It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.
 GitHub is an open-source platform, and the community is really what fuels it. Millions of programmers and hobbyists download, review, and evaluate each other’s work.
 Pushing the project to a shared, public repository makes it instantly discoverable for those 28M users.
