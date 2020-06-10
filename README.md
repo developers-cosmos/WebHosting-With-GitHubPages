@@ -22,10 +22,10 @@ Everybody wants a URL to share their website with the World. You might need a we
 <h2>Let’s get started</h2>
 In this article, I’ll show you how to deploy it to publish and share your website on GitHub.
 <h3>1. Create a GitHub account</h3>
-Make sure, You have a GitHub account. Signup in the GitHub to create an account. If you have Github account ignore this step. By creating this Github account you gonna get unlimited space to upload data.
+Make sure, You have a GitHub account. Signup in the GitHub to create an account. If you have Github account ignore this step. By creating this Github account you gonna get unlimited space to upload data.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(149).png">
 <h3>2.Create a new GitHub repository</h3>
-Create a new repository by hitting the + button on the top-right of the screen. A folder is called Repository according to GitHub terminology.<br>
+Create a new repository by hitting the + button on the top-right of the screen. A folder is called Repository according to GitHub terminology.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(153).png">
 <h3>3. Name your GitHub repository</h3>
 You need to name your repository. This is the most important step. Based on the name of the Repository, your website URL will be generated.<br>
@@ -36,7 +36,7 @@ https://[username].github.io/
 <h4>Recommended :</h4>
 If you give the input “Name” as per your required repository name
 <br>Then your Website Link will generate as
-https://[username].github.io/[given repository name]/
+https://[username].github.io/[given repository name]/<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(154).png">
 It is mandatory to initialize the repository with a README which will let you immediately clone the repository to your computer.
 The repository should be in the public mode to get URL access.
@@ -44,16 +44,16 @@ The repository should be in the public mode to get URL access.
 You have seen the website which was opened in the local(Computer).
 The alignment which is there should not be changed while uploading the files into GitHub.
 You can name your files as your wish. But, Follow the standard format while uploading.
-The name of the HTML file must be “index.html”.<br>
+The name of the HTML file must be “index.html”.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(156).png"><br>
-This is the alignment of files of the “samplewebsitedeploy” in local(computer).<br>
+This is the alignment of files of the “samplewebsitedeploy” in local(computer).<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(159).png">
-Drag and Drop all the files one by one and click the “commit changes” button.
+Drag and Drop all the files one by one and click the “commit changes” button.<br>
 <br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(160).png">
-In the same alignment, You should upload them in the GitHub
+In the same alignment, You should upload them in the GitHub<br>
 <br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
 <h3>5. Publish your website</h3>
-This is the most awaiting part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.<br>
+This is the most awaiting part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(161).png">
 Scroll down until you see the“GitHub Pages”
 If you give the input “Name” as [username].github.io
