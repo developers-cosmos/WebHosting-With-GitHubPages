@@ -38,7 +38,7 @@ https://[username].github.io/
 <br>⨠ Then your Website Link will generate as
 https://[username].github.io/[given repository name]/<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(154).png">
-It is mandatory to initialize the repository with a README which will let you immediately clone the repository to your computer.Write about your project in the description part. 
+It is completely based upon your interest to initialize the repository with a README which will let you immediately clone the repository to your computer.Write about your project in the description part. 
 The repository should be in the public mode to get URL access.
 <h3>4. Upload your GitHub files</h3>
 You have seen the website which was opened in the my local(Computer).
