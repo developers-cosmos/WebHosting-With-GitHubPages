@@ -1,6 +1,5 @@
 <h1>Deploy a static website using Github, Access it from anywhere</h1>
 <h3>Make your website and share it publically in no time.</h3>
-
 <h2>What is Github?</h2>
 GitHub is the world’s largest software development platform. It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.
 <br>
