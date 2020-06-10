@@ -51,7 +51,7 @@ This is the alignment of files of the “samplewebsitedeploy” in local(compute
 Drag and Drop all the files one by one and click the “commit changes” button.<br>
 <br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(160).png">
 In the same alignment, You should upload them in the GitHub<br>
-<br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(148).png">
+<br><img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Picture1.png">
 <h3>5. Publish your website</h3>
 This is the most awaiting part you are looking for. Let’s take advantage of GitHub. Click on the “Settings” button.<br><br>
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/Screenshot%20(161).png">
