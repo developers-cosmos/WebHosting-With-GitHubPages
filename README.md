@@ -1,4 +1,4 @@
-#Deploy a static website using Github, Access it from anywhere
+<h1>Deploy a static website using Github, Access it from anywhere</h1>
 ##Make your website and share it publically in no time.
 
 
