@@ -1,7 +1,7 @@
-# Deploy a static website using Github, Access it from anywhere
+# Deploy A Static Website Using GitHub, Access It From Anywhere
 ## Make your website and share it publicly in no time.
 <img src="https://github.com/balupeddireddy08/samplewebsitedeploy/blob/master/img/github-mark.png">
-<h2>What is Github?</h2>
+<h2>What is GitHub?</h2>
 GitHub is the world’s largest software development platform. It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.<br>
 GitHub is an open-source platform, and the community is really what fuels it. Millions of programmers and hobbyists download, review, and evaluate each other’s work.<br>
 Pushing the project to a shared, public repository makes it instantly discoverable for those 28M users.<br>
